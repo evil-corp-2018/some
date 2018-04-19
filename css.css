@@ -1,0 +1,33 @@
+.trapezium {
+	margin: 5px auto 0;
+	z-index: 1;
+	position: relative;
+	width: 60%;
+	height: 50px;
+	text-align: center;
+}
+.trapezium:before, .trapezium:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	width: 60%;
+	bottom: 0;
+	z-index: -1;
+	border-radius: 5px;
+}
+.trapezium:before {
+	transform: skew(-15deg);
+	-webkit-transform: skew(-15deg);
+	left: 0px;
+	background: linear-gradient(to right, silver, white 60%);
+}
+.trapezium:after {
+	transform: skew(15deg);
+	-webkit-transform: skew(15deg);
+	right: 0px;
+	background: linear-gradient(to right, white 40%, silver);
+}
+
+.trapezium span {
+	font-size: 1em;
+}

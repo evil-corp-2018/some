@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 50">
+ <style type="text/css">
+  svg { font-size: 62.5%; width: 45em; height: 5em; }
+  polygon {stroke-linejoin: bevel;fill: Silver;stroke: Silver;stroke-width: 5;fill-rule: evenodd; stroke-linecap: round; }
+ </style>
+ <polygon points="2,50 52,2 400,2 450,50"/>
+</svg>
