@@ -5,6 +5,8 @@ CACHE:
 https://code.jquery.com/jquery-3.3.1.js
 https://cdnjs.cloudflare.com/ajax/libs/less.js/3.0.1/less.js
 https://cdnjs.cloudflare.com/ajax/libs/three.js/92/three.min.js
+https://cdnjs.cloudflare.com/ajax/libs/three.js/92/three.module.js
+https://threejs.org/examples/js/controls/OrbitControls.js
 js/js.js
 index.html
 styles.less
