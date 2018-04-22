@@ -1,9 +1,10 @@
 CACHE MANIFEST
-# 22-04-2018:02
+# 22-04-2018:01
 
 CACHE:
 https://code.jquery.com/jquery-3.3.1.js
 https://cdnjs.cloudflare.com/ajax/libs/less.js/3.0.1/less.js
+https://cdnjs.cloudflare.com/ajax/libs/three.js/92/three.min.js
 index.html
 styles.less
 
