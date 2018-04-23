@@ -6,9 +6,9 @@ if (window.applicationCache==undefined) {
     message = "API available";
 }
 if (navigator.onLine) {
-  message += "online";
+  message += "\nonline";
 } else {
-  message += "offline";
+  message += "\noffline";
 }
 
 			var camera, scene, renderer;
