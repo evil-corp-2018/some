@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# 22-04-2018:02
+
+CACHE:
+https://cdnjs.cloudflare.com/ajax/libs/three.js/92/three.min.js
+https://threejs.org/examples/js/controls/OrbitControls.js
+https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/libs/stats.min.js
+https://threejs.org/examples/js/libs/dat.gui.min.js
+js/js.js
+js/man.js
+index.html
+man.html
+favicon.svg
+https://threejs.org/examples/fonts/helvetiker_regular.typeface.json
+
+NETWORK:
+
+
+
+FALLBACK:
